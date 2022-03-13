@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "172af37c-4e9f-4e63-8ee6-4fddbe1649ec": {
+      "ProjectGuid": "172af37c-4e9f-4e63-8ee6-4fddbe1649ec",
+      "DisplayName": "VNEDU.API",
+      "ColorIndex": 0
+    },
+    "ba68d575-4f9f-464b-83da-1ed8280dcd84": {
+      "ProjectGuid": "ba68d575-4f9f-464b-83da-1ed8280dcd84",
+      "DisplayName": "VNEDU.CORE",
+      "ColorIndex": 1
+    },
+    "3ad709a2-e380-466c-97bd-82c024e9c979": {
+      "ProjectGuid": "3ad709a2-e380-466c-97bd-82c024e9c979",
+      "DisplayName": "VNEDU.INFRASTRUCTURE",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

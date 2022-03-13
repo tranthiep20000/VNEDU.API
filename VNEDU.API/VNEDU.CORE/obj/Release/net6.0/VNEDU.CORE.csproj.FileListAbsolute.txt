@@ -1,0 +1,12 @@
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\bin\Release\net6.0\VNEDU.CORE.deps.json
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\bin\Release\net6.0\VNEDU.CORE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\bin\Release\net6.0\ref\VNEDU.CORE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\bin\Release\net6.0\VNEDU.CORE.pdb
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\VNEDU.CORE.csproj.AssemblyReference.cache
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\VNEDU.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\VNEDU.CORE.AssemblyInfoInputs.cache
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\VNEDU.CORE.AssemblyInfo.cs
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\VNEDU.CORE.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\VNEDU.CORE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\ref\VNEDU.CORE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.CORE\obj\Release\net6.0\VNEDU.CORE.pdb

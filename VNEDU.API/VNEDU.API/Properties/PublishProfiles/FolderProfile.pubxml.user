@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\computer\Desktop\VNEDUSERVER</_PublishTargetUrl>
+    <History>True|2022-03-13T01:41:44.3442632Z;True|2022-03-10T11:09:59.4473308+07:00;</History>
+  </PropertyGroup>
+</Project>

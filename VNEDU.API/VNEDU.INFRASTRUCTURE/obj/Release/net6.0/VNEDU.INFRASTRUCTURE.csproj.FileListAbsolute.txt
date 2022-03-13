@@ -1,0 +1,15 @@
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\bin\Release\net6.0\VNEDU.INFRASTRUCTURE.deps.json
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\bin\Release\net6.0\VNEDU.INFRASTRUCTURE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\bin\Release\net6.0\ref\VNEDU.INFRASTRUCTURE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\bin\Release\net6.0\VNEDU.INFRASTRUCTURE.pdb
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\bin\Release\net6.0\VNEDU.CORE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\bin\Release\net6.0\VNEDU.CORE.pdb
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.csproj.CopyComplete
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\ref\VNEDU.INFRASTRUCTURE.dll
+C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\obj\Release\net6.0\VNEDU.INFRASTRUCTURE.pdb

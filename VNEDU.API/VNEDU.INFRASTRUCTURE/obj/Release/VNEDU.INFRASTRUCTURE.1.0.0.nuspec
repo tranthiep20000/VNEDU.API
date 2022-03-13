@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VNEDU.INFRASTRUCTURE</id>
+    <version>1.0.0</version>
+    <authors>VNEDU.INFRASTRUCTURE</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="VNEDU.CORE" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Dapper" version="2.0.123" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\computer\Desktop\VNEDU.API\VNEDU.API\VNEDU.INFRASTRUCTURE\bin\Release\net6.0\VNEDU.INFRASTRUCTURE.dll" target="lib\net6.0\VNEDU.INFRASTRUCTURE.dll" />
+  </files>
+</package>
